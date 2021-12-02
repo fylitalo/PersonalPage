@@ -44,15 +44,12 @@ h3 {
 .bottom-container {
 
 }
-.action {
-  margin: auto;
-}
+
 .skill-row {
   width: 50%;
   margin: 100px auto;
   text-align: left;
   line-height: 2;
-
 
   }
 
@@ -70,4 +67,15 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+.code-img {
+  margin: auto;
+  height: 15%;
+  width: 15%;
+
+}
+.panda-img {
+  margin: auto;
+  height: 15%;
+  width: 15%;
 }
