@@ -53,11 +53,12 @@ hr {
 }
 
 .pict {
+  width: 25%;
   border-style: solid;
   border-color: black;
   border-width: 2px;
   border-radius: 99%;
-  width: 25%;
+  
 }
 
 .bottom-container {
