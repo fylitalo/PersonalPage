@@ -11,6 +11,7 @@ h1 {
   font-family: "Sacramento", cursive;
 
 }
+
 h2 {
     font-family: "Montserrat", sans-serif;
 }
@@ -24,13 +25,16 @@ h3{
 }
 .middle-container {
 
+
 }
-.pict {
+.pict{
   border-style: solid;
   border-color: black;
   border-width: 2px;
   border-radius: 99%;
 }
+
+
 .bottom-container {
 
 }
