@@ -24,7 +24,9 @@ h3 {
   font-family: "Montserrat", sans-serif;
   font-weight: normal;
 }
-
+p {
+  line-height: 2;
+}
 .top-container {
   background-color: #B8E4F0;
   position: relative;
@@ -57,23 +59,25 @@ h3 {
   width: 50%;
   margin: 100px auto;
   text-align: left;
-  line-height: 2;
+
 
   }
 
 .profile {
+  width: 30%;
+  margin: auto;
   text-decoration: none;
 }
 
 .top-cloud {
   position: absolute;
   right: 300px;
-  top: 50px;
+  top: 40px;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
+  left: 250px;
   bottom: 300px;
 
 }
