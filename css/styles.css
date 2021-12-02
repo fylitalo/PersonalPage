@@ -72,10 +72,12 @@ h3 {
   margin: auto;
   height: 15%;
   width: 15%;
+  float: left;
 
 }
 .panda-img {
   margin: auto;
   height: 15%;
   width: 15%;
+  float: left;
 }
