@@ -67,17 +67,18 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+
 }
 .code-img {
-  margin: auto;
-  height: 15%;
+  margin-right: 10%;
+  border-radius: 99%;
   width: 15%;
   float: left;
 
 }
 .panda-img {
-  margin: auto;
-  height: 15%;
+  margin-right: 10%;
+  border-radius: 99%;
   width: 15%;
   float: left;
 }
