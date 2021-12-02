@@ -27,6 +27,18 @@ h3 {
 p {
   line-height: 2;
 }
+
+hr {
+  padding: 10px;
+  border: dotted #9ecce8;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
 .top-container {
   background-color: #B8E4F0;
   position: relative;
@@ -34,6 +46,7 @@ p {
 }
 
 .middle-container {
+  margin: auto 10px;
   padding-top: 25px;
   padding-bottom: 50px;
 
@@ -89,7 +102,7 @@ p {
 
 }
 .panda-img {
-  margin-right: 10%;
+  margin-left: 10%;
   border-radius: 99%;
   width: 25%;
   float: right;
