@@ -30,6 +30,9 @@ h3 {
 .middle-container {
   
 }
+.profile {
+  text-decoration: none;
+}
 
 .pict {
   border-style: solid;
