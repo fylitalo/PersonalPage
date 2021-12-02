@@ -28,10 +28,7 @@ h3 {
 }
 
 .middle-container {
-  
-}
-.profile {
-  text-decoration: none;
+
 }
 
 .pict {
@@ -43,7 +40,9 @@ h3 {
 
 .bottom-container {}
 
-
+.profile {
+  text-decoration: none;
+}
 
 .top-cloud {
   position: absolute;
