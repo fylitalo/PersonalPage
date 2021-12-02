@@ -13,6 +13,7 @@ h1 {
 }
 
 h2 {
+  padding-bottom: 10px
   color: #66bfbf;
   font-family: "Montserrat", sans-serif;
   font-weight: normal;
@@ -32,6 +33,7 @@ h3 {
 }
 
 .middle-container {
+  margin: 100px 0px;
 
 }
 
