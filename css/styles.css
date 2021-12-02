@@ -52,15 +52,6 @@ hr {
 
 }
 
-.pict {
-  width: 25%;
-  border-style: solid;
-  border-color: black;
-  border-width: 2px;
-  border-radius: 99%;
-  
-}
-
 .bottom-container {
 
   position: relative; top: 30px;
@@ -80,7 +71,7 @@ hr {
   }
 
 .profile {
-  width: 40%;
+  width: 30%;
   margin: auto;
   text-decoration: none;
 }
@@ -109,6 +100,13 @@ hr {
   border-radius: 99%;
   width: 25%;
   float: right;
+}
+.pict {
+  width: 25%;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  border-radius: 99%;
 }
 .btn {
   background: #11cdd4;
